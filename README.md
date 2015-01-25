@@ -6,6 +6,9 @@ Sync-iTunes-LastFm
 Installation
 ------------
 
+First, edit the _Sync-iTunes-LastFm.scptd_ file and change YOUR-LASTFM-USER-NAME to your login on Last.FM.
+
+
 To install the plugin for the current user only, move _Sync-iTunes-LastFm.scptd_ to:
 
 ::
