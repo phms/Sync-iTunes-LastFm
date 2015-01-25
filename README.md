@@ -1,5 +1,5 @@
-Sync-iTunes-LastFm
-===================
+Sync iTunes LastFm
+==================
 **AppleScript Plugin to sync the play count from Last.FM to iTunes**
 
 
@@ -30,7 +30,7 @@ Require
 How to use
 ----------
 
-Once the file have been installed it will be accessible in iTunes' Script menu. Select the songs and use the option "Sync-iTunes-LastFm.scptd" in iTunes' Script menu.
+Once the file have been installed it will be accessible in iTunes' Script menu. Select the songs and use the option __Sync iTunes LastFm__ in iTunes' Script menu.
 
 
 Credits
