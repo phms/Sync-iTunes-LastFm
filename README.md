@@ -10,11 +10,11 @@ Edit the _Sync-iTunes-LastFm.scptd_ file and change YOUR-LASTFM-USER-NAME to you
 
 Install the plugin for the current user only, move _Sync-iTunes-LastFm.scptd_ to:
 
-*  ~/Library/iTunes/Scritps
+*  ~/Library/iTunes/Scripts
 
 To install system-wide (for all users), move _Sync-iTunes-LastFm.scptd_ to:
 
-*  /Library/iTunes/Scritps
+*  /Library/iTunes/Scripts
 
 *If there is no "Scripts" folder, then create one.*
 
